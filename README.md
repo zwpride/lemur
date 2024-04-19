@@ -49,7 +49,7 @@ In the `cot/archive` folder, the parsed result and logs in the paper is archived
 
 
 ```bibtex
-@article{guo2024lemur,
+@article{zhang2024lemur,
   title={Lemur: Log Parsing with Entropy Sampling and Chain-of-Thought Merging},
   author={Zhang, Wei and Guo, Hongcheng and and Le, Anjie and Yang, Jian and Liu, Jiaheng and Li, Zhoujun and Zheng, Tieqiao and Xu, Shi and Zang, Runqiang and Zheng, Liangfan and others},
   journal={arXiv preprint arXiv:2402.18205},
